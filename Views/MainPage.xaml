@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDMI6_TP03.MainPage"
+             xmlns:viewmodels="clr-namespace:PDMI6_TP03.ViewModels"
+             Title="Rastreio de pacotes">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25"
+            BackgroundColor="CadetBlue">
+
+            <HorizontalStackLayout Spacing="10">
+                <Label Text="Código de rastreio:"
+                       FontSize="20"
+                       TextColor="AntiqueWhite"
+                       Margin="0,20,0,0"/>
+                <Entry x:Name="entryCodRastreio"
+                       FontSize="20"
+                       TextChanged="OnTextChanged"
+                       Margin="0,10,0,0"/>
+            </HorizontalStackLayout>
+
+            <Button Text="Verificar"
+                    Clicked="OnVerificarClicked"
+                    x:Name="btnVerificar"
+                    FontSize="20"
+                    IsEnabled="False"/>
+
+            <Button Text="Créditos"
+                Clicked="OnCreditosClicked"
+                FontSize="20"/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDMI6_TP03.Views.Detalhes"
+             Title="{Binding CodRastreio, StringFormat='Código do pacote: {0}'}">
+
+    <VerticalStackLayout
+        Padding="20"
+        Spacing="20"
+        BackgroundColor="CadetBlue">
+
+        <Label Text="{Binding Status, StringFormat='Status: {0}'}" FontSize="20" TextColor="AntiqueWhite"/>
+        <Label Text="{Binding DataEnvio, StringFormat='Data de envio: {0:dd/MM/yyyy}'}" FontSize="20" TextColor="AntiqueWhite"/>
+        <Label Text="{Binding DataPrevistaEntrega, StringFormat='Data prevista de entrega: {0:dd/MM/yyyy}'}" FontSize="20" TextColor="AntiqueWhite"/>
+
+        <VerticalStackLayout
+            Spacing="-4">
+            <Label Text="Lista de eventos:" FontSize="20" TextColor="AntiqueWhite"/>
+                <CollectionView
+                    ItemsSource="{Binding HistoricoEventos}">
+
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <StackLayout Orientation="Horizontal" Padding="5">
+                                <Label Text="{Binding DataEvento, StringFormat='{0:dd/MM/yyyy}'}" FontSize="15" TextColor="AntiqueWhite"/>
+                                <Label Text=" - " FontSize="15" TextColor="AntiqueWhite"/>
+                                <Label Text="{Binding Descricao, StringFormat=' {0}'}" FontSize="15" TextColor="AntiqueWhite"/>
+                            </StackLayout>
+                        </DataTemplate>
+                </CollectionView.ItemTemplate>
+                </CollectionView>
+        </VerticalStackLayout>
+        
+        
+    </VerticalStackLayout>
+</ContentPage>

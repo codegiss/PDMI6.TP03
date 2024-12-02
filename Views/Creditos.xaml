@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDMI6_TP03.Views.Creditos"
+             Title="Créditos da dupla">
+    <VerticalStackLayout
+        Padding="20"
+        Spacing="20"
+        BackgroundColor="CadetBlue">
+        <Label 
+            Text="Giselle Souza - CB3020339"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"
+            TextColor="AntiqueWhite"
+            FontSize="20"/>
+        <Label 
+            Text="Lucas Gomes - CB3021777"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"
+            TextColor="AntiqueWhite"
+            FontSize="20"/>
+    </VerticalStackLayout>
+</ContentPage>

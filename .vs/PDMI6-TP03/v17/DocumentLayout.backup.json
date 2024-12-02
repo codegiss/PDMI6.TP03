@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Giselle\\Programming\\IFSP\\PDMI6-TP03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6454D8B-B02F-4ECD-9592-FAB0F6A36333}|PDMI6-TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\pdmi6-tp03\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6454D8B-B02F-4ECD-9592-FAB0F6A36333}|PDMI6-TP03.csproj|solutionrelative:views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6454D8B-B02F-4ECD-9592-FAB0F6A36333}|PDMI6-TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\pdmi6-tp03\\views\\creditos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6454D8B-B02F-4ECD-9592-FAB0F6A36333}|PDMI6-TP03.csproj|solutionrelative:views\\creditos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6454D8B-B02F-4ECD-9592-FAB0F6A36333}|PDMI6-TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\pdmi6-tp03\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6454D8B-B02F-4ECD-9592-FAB0F6A36333}|PDMI6-TP03.csproj|solutionrelative:views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6454D8B-B02F-4ECD-9592-FAB0F6A36333}|PDMI6-TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\pdmi6-tp03\\views\\creditos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6454D8B-B02F-4ECD-9592-FAB0F6A36333}|PDMI6-TP03.csproj|solutionrelative:views\\creditos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6454D8B-B02F-4ECD-9592-FAB0F6A36333}|PDMI6-TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\pdmi6-tp03\\views\\detalhes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6454D8B-B02F-4ECD-9592-FAB0F6A36333}|PDMI6-TP03.csproj|solutionrelative:views\\detalhes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6454D8B-B02F-4ECD-9592-FAB0F6A36333}|PDMI6-TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\pdmi6-tp03\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6454D8B-B02F-4ECD-9592-FAB0F6A36333}|PDMI6-TP03.csproj|solutionrelative:models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6454D8B-B02F-4ECD-9592-FAB0F6A36333}|PDMI6-TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\pdmi6-tp03\\viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6454D8B-B02F-4ECD-9592-FAB0F6A36333}|PDMI6-TP03.csproj|solutionrelative:viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Creditos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\IFSP\\PDMI6-TP03\\Views\\Creditos.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\Creditos.xaml.cs",
+              "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\PDMI6-TP03\\Views\\Creditos.xaml.cs",
+              "RelativeToolTip": "Views\\Creditos.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:46:19.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Creditos.xaml",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\IFSP\\PDMI6-TP03\\Views\\Creditos.xaml",
+              "RelativeDocumentMoniker": "Views\\Creditos.xaml",
+              "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\PDMI6-TP03\\Views\\Creditos.xaml",
+              "RelativeToolTip": "Views\\Creditos.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T17:44:04.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\IFSP\\PDMI6-TP03\\ViewModels\\ViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\PDMI6-TP03\\ViewModels\\ViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ViewModel.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAEwCgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:15:52.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\IFSP\\PDMI6-TP03\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\PDMI6-TP03\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:46:18.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detalhes.xaml",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\IFSP\\PDMI6-TP03\\Views\\Detalhes.xaml",
+              "RelativeDocumentMoniker": "Views\\Detalhes.xaml",
+              "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\PDMI6-TP03\\Views\\Detalhes.xaml",
+              "RelativeToolTip": "Views\\Detalhes.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T16:55:03.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\IFSP\\PDMI6-TP03\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\PDMI6-TP03\\Views\\MainPage.xaml",
+              "RelativeToolTip": "Views\\MainPage.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T16:58:41.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\IFSP\\PDMI6-TP03\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\PDMI6-TP03\\Models\\Evento.cs",
+              "RelativeToolTip": "Models\\Evento.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:04:07.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
